@@ -84,4 +84,6 @@ Two tables were used in this analysis:
 ## Files
 | File | Description |
 |------|-------------|
-| `Voltex_Orders.xlsx` | Raw data, cleaned data, issue log, insights log, and pivot tables |
+| `Voltex_Pivot_Tables.xlsx` | Revenue pivot tables by product, month, and region |
+| `Voltex_Issue_Log.xlsx` | Data quality issues identified and resolutions applied |
+| `Voltex_Insights_Log.xlsx` | EDA findings, deep dive insights, and recommendations |
