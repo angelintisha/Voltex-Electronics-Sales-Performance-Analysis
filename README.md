@@ -77,7 +77,6 @@ Two tables were used in this analysis:
 | Data | Audit marketing channel attribution — direct channel appears oversized |
 
 ## Dashboard
-## Dashboard
 [![Dashboard Preview](https://public.tableau.com/static/images/Sa/SalesPerformanceDashboardProduct/Dashboard1/1.png)](https://public.tableau.com/views/SalesPerformanceDashboardProduct/Dashboard1)
 
 **[View Interactive Tableau Dashboard →](https://public.tableau.com/views/SalesPerformanceDashboardProduct/Dashboard1)**
